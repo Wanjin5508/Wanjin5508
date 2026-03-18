@@ -1,85 +1,84 @@
-# Hi, I'm Wanjin Li 👋
+<h1 align="center">Hi, I'm Wanjin Li 👋</h1>
 
-AI Algorithm Engineer focused on:
-- Time-series analysis
-- Industrial signal processing
-- Deep learning with PyTorch
-- LLM / RAG applications
+<p align="center">
+  <strong>AI Algorithm Engineer</strong> · Time Series · Industrial Signal Processing · LLM / RAG
+</p>
+
+<p align="center">
+  Building practical AI systems for industrial data, knowledge retrieval, and intelligent engineering workflows.
+</p>
+
+---
+
+## About Me
+
+- AI Algorithm Engineer focused on time-series analysis, industrial signal processing, and deep learning
+- Interested in practical LLM / RAG systems, intelligent software, and edge AI deployment
+- Building end-to-end AI workflows from data processing and modeling to system integration
 
 ## Current Focus
+
 - Partial discharge detection with HFCT signals
-- Time-series segmentation, clustering, and feature engineering
+- End-to-end time-series segmentation and sequence labeling
+- Time-series clustering and feature engineering
 - Local and modular RAG systems for enterprise knowledge retrieval
-- Exploring edge AI deployment and practical AI engineering workflows
+- Obsidian-based knowledge tools and interview simulation systems
 
 ## Tech Stack
-- Languages: Python, TypeScript, SQL, Java
-- ML/DL: PyTorch, scikit-learn, NumPy, Pandas, Polars
-- Time Series & Signal Processing: feature engineering, clustering, segmentation, industrial signal analysis
-- LLM / RAG: modular retrieval pipeline, local RAG systems, question answering, interview simulation, Ollama, local LLM deployment
-- Backend & Web: Flask, FastAPI, REST API
-- Desktop & Plugin Development: PyQt, Obsidian Plugin Development
-- Optimization & Algorithms: NSGA-II, Genetic Algorithm (GA), PyMoo
-- Visualization: Plotly, PyqtGraph
-- Tools: Git, Linux, Docker
+
+| Area | Stack |
+| --- | --- |
+| Languages | Python, TypeScript, SQL, Java |
+| ML / DL | PyTorch, scikit-learn, NumPy, Pandas, Polars |
+| Time Series & Signal Processing | feature engineering, clustering, segmentation, industrial signal analysis |
+| LLM / RAG | modular retrieval pipeline, local RAG systems, question answering, interview simulation, Ollama, local LLM deployment |
+| Backend & Web | Flask, FastAPI, REST API |
+| Desktop & Plugin Development | PyQt, Obsidian Plugin Development |
+| Optimization & Algorithms | NSGA-II, Genetic Algorithm (GA), PyMoo |
+| Visualization | Plotly |
+| Tools | Git, Linux, Docker |
 
 ## Featured Projects
 
-### HFCT Signal Annotation Tool
-PyQt-based desktop application for long time-series labeling and suspicious signal annotation.
-- Built for industrial signal inspection workflows
-- Supports efficient annotation of long waveform data
-- Designed to assist downstream model training
+| Project | Description | Tech |
+| --- | --- | --- |
+| **HFCT Signal Annotation Tool** | PyQt-based desktop application for labeling long time-series signals and suspicious waveform segments in industrial inspection workflows. | PyQt, Python, time-series visualization |
+| **Partial Discharge Detection Model** | Deep learning models for PD/noise classification and waveform understanding on industrial sensor data. | PyTorch, signal processing |
+| **End-to-End Time-Series Segmentation** | Semantic segmentation pipeline for industrial time-series data, focused on sequence labeling and boundary-aware waveform recognition. | PyTorch, sequence modeling |
+| **Time-Series Clustering and Feature Engineering** | Machine learning workflows for clustering, representation learning, and feature extraction on industrial signals. | scikit-learn, NumPy, Pandas, Polars |
+| **Tabular Data Generation with Encoder-Decoder Models** | Deep generative modeling experiments for structured/tabular data synthesis and representation learning. | PyTorch, generative modeling |
+| **Enterprise Manual RAG Prototype** | Local RAG-based prototype for enterprise product manuals with modular retrieval, reranking, and generation pipeline. | Python, RAG, Ollama |
+| **Obsidian Plugin for RAG QA and Interview Simulation** | TypeScript-based Obsidian plugin for modular RAG question answering and interview simulation. | TypeScript, Obsidian API, RAG |
+| **Structural Optimization Platform** | Full-stack structural optimization system with interactive frontend-backend integration and evolutionary algorithms. | Flask, PyMoo, NSGA-II, GA, Plotly |
 
-### Partial Discharge Detection Model
-Built deep learning models for PD/noise classification and end-to-end time-series segmentation on industrial sensor signals.
-- PyTorch-based training and inference pipeline
-- Focused on waveform recognition and semantic segmentation
-- Applied to HFCT-based partial discharge detection
+<details>
+<summary><strong>More About My Work</strong></summary>
 
-### End-to-End Time-Series Segmentation
-Developed deep learning pipelines for semantic segmentation on industrial time-series data.
-- End-to-end modeling for sequence labeling tasks
-- Focused on waveform boundary detection and class-aware segmentation
-- Applied to practical signal understanding scenarios
+### Areas I Enjoy Exploring
+- Industrial AI applications
+- Intelligent developer tools
+- Practical ML systems deployment
+- Edge AI and local AI workflows
 
-### Time-Series Clustering and Feature Engineering
-Built machine learning workflows for time-series clustering, representation, and feature extraction.
-- Designed feature engineering pipelines for industrial signals
-- Explored clustering methods for pattern discovery and data understanding
-- Used to support analysis of signal categories and waveform structures
+### What I Value in Projects
+- Clear problem definition
+- Reliable engineering implementation
+- Reproducible experiments
+- Practical usefulness in real scenarios
 
-### Tabular Data Generation with Encoder-Decoder Models
-Built generative modeling experiments for structured/tabular data based on encoder-decoder architectures.
-- Focused on representation learning and structured data synthesis
-- Explored deep learning approaches for generating realistic tabular samples
-- Related to data augmentation and generative AI workflows
-
-### Enterprise Manual RAG Prototype
-Designed and implemented a local RAG-based prototype for technical manuals with a modular retrieval pipeline.
-- Embedding, retrieval, reranking, and generation
-- Emphasis on modular design and local deployment
-- Built for trustworthy enterprise knowledge access
-
-### Obsidian Plugin for RAG QA and Interview Simulation
-Developed an Obsidian plugin in TypeScript for modular RAG-based question answering and interview simulation.
-- Built as a knowledge assistant inside Obsidian
-- Supports modular retrieval and QA workflows
-- Includes interview simulation for learning and preparation scenarios
-
-### Structural Optimization Platform
-Built a full-stack structural optimization platform with Flask for frontend-backend integration.
-- Implemented NSGA-II and GA algorithms
-- Used PyMoo for optimization workflows
-- Integrated visualization and interactive analysis for engineering design tasks
+</details>
 
 ## What I'm Looking For
-- AI engineering roles
-- ML systems development
-- Applied deep learning for industrial scenarios
-- Practical LLM / RAG and intelligent software systems
+
+- AI / ML Engineer roles
+- Applied Algorithm Engineer positions
+- Industrial AI and intelligent software systems
+- Time-series learning, RAG systems, and backend AI applications
 
 ## Contact
-- GitHub: [Wanjin5508](https://github.com/Wanjin5508)
-- LinkedIn: [wanjin-li5508](https://www.linkedin.com/in/wanjin-li5508/)
-- Email: liwanjin5508@gmail.com
+
+<p>
+  GitHub: <a href="https://github.com/Wanjin5508">Wanjin5508</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/wanjin-li5508/">wanjin-li5508</a><br>
+  Email: <a href="mailto:liwanjin5508@gmail.com">liwanjin5508@gmail.com</a>
+</p>
