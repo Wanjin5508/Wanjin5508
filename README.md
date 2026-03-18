@@ -35,6 +35,6 @@ Designed and implemented a local RAG-based prototype for technical manuals with 
 - Applied deep learning for industrial scenarios
 
 ## Contact
-- GitHub: your-link
-- LinkedIn: your-link
-- Email: your-email
+- GitHub: https://github.com/Wanjin5508
+- LinkedIn: https://www.linkedin.com/in/wanjin-li5508/
+- Email: liwanjin5508@gmail.com
