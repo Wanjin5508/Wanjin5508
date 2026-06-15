@@ -1,84 +1,107 @@
 <h1 align="center">Hi, I'm Wanjin Li 👋</h1>
 
 <p align="center">
-  <strong>AI Algorithm Engineer</strong> · Time Series · Industrial Signal Processing · LLM / RAG
+  <strong>Applied AI / Machine Learning Engineer</strong><br/>
+  Time Series · Industrial Signal Processing · LLM / RAG · Optimization · AI Engineering
 </p>
 
 <p align="center">
-  Building practical AI systems for industrial data, knowledge retrieval, and intelligent engineering workflows.
+  I build practical AI systems for industrial data analysis, knowledge retrieval, decision optimization, and intelligent engineering workflows.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Wanjin5508">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/wanjin-li5508/">LinkedIn</a> ·
+  <a href="mailto:liwanjin5508@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About Me
 
-- AI Algorithm Engineer focused on time-series analysis, industrial signal processing, and deep learning
-- Interested in practical LLM / RAG systems, intelligent software, and edge AI deployment
-- Building end-to-end AI workflows from data processing and modeling to system integration
+I am an applied AI and machine learning engineer focused on turning algorithms into usable systems.
+
+My work combines deep learning, time-series analysis, industrial signal processing, optimization, and LLM-based software engineering. I am especially interested in building end-to-end AI workflows: from data processing and model development to backend integration, local AI deployment, and practical user-facing tools.
+
+Currently, I am working on projects around industrial time-series modeling, reinforcement learning for engineering design, energy storage revenue optimization, local-first RAG systems, and AI-assisted career development platforms.
+
+---
 
 ## Current Focus
 
-- Partial discharge detection with HFCT signals
-- End-to-end time-series segmentation and sequence labeling
-- Time-series clustering and feature engineering
-- Local and modular RAG systems for enterprise knowledge retrieval
-- Obsidian-based knowledge tools and interview simulation systems
+* Industrial time-series analysis and signal processing
+* Partial discharge detection with HFCT sensor signals
+* End-to-end time-series segmentation and sequence labeling
+* Reinforcement learning for engineering design automation
+* Energy storage arbitrage and profit-oriented machine learning
+* Local-first RAG systems, Obsidian plugins, and intelligent knowledge tools
+* Full-stack AI applications with TypeScript, Python, and LLM workflows
+
+---
 
 ## Tech Stack
 
-| Area | Stack |
-| --- | --- |
-| Languages | Python, TypeScript, SQL, Java |
-| ML / DL | PyTorch, scikit-learn, NumPy, Pandas, Polars |
-| Time Series & Signal Processing | feature engineering, clustering, segmentation, industrial signal analysis |
-| LLM / RAG | modular retrieval pipeline, local RAG systems, question answering, interview simulation, Ollama, local LLM deployment |
-| Backend & Web | Flask, FastAPI, REST API |
-| Desktop & Plugin Development | PyQt, Obsidian Plugin Development |
-| Optimization & Algorithms | NSGA-II, Genetic Algorithm (GA), PyMoo |
-| Visualization | Plotly |
-| Tools | Git, Linux, Docker |
+| Area                             | Technologies                                                                                 |
+| -------------------------------- | -------------------------------------------------------------------------------------------- |
+| Programming Languages            | Python, TypeScript, SQL, Java                                                                |
+| Machine Learning / Deep Learning | PyTorch, scikit-learn, NumPy, Pandas, Polars                                                 |
+| Time Series & Signal Processing  | feature engineering, segmentation, clustering, industrial signal analysis                    |
+| LLM / RAG                        | local RAG, hybrid retrieval, reranking, Ollama, OpenAI-compatible APIs, local LLM deployment |
+| Backend & Web                    | Flask, FastAPI, REST APIs, Next.js, Node.js                                                  |
+| Desktop & Plugin Development     | PyQt, PyQtGraph, Obsidian Plugin Development                                                 |
+| Optimization & Algorithms        | Reinforcement Learning, Dynamic Programming, Genetic Algorithms, NSGA-II, PyMoo              |
+| Visualization                    | Plotly, Matplotlib                                                                           |
+| Engineering Tools                | Git, Linux, Docker, pnpm, ESLint, Prisma                                                     |
+
+---
 
 ## Featured Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| **HFCT Signal Annotation Tool** | PyQt-based desktop application for labeling long time-series signals and suspicious waveform segments in industrial inspection workflows. | PyQt, Python, time-series visualization |
-| **Partial Discharge Detection Model** | Deep learning models for PD/noise classification and waveform understanding on industrial sensor data. | PyTorch, signal processing |
-| **End-to-End Time-Series Segmentation** | Semantic segmentation pipeline for industrial time-series data, focused on sequence labeling and boundary-aware waveform recognition. | PyTorch, sequence modeling |
-| **Time-Series Clustering and Feature Engineering** | Machine learning workflows for clustering, representation learning, and feature extraction on industrial signals. | scikit-learn, NumPy, Pandas, Polars |
-| **Tabular Data Generation with Encoder-Decoder Models** | Deep generative modeling experiments for structured/tabular data synthesis and representation learning. | PyTorch, generative modeling |
-| **Enterprise Manual RAG Prototype** | Local RAG-based prototype for enterprise product manuals with modular retrieval, reranking, and generation pipeline. | Python, RAG, Ollama |
-| **Obsidian Plugin for RAG QA and Interview Simulation** | TypeScript-based Obsidian plugin for modular RAG question answering and interview simulation. | TypeScript, Obsidian API, RAG |
-| **Structural Optimization Platform** | Full-stack structural optimization system with interactive frontend-backend integration and evolutionary algorithms. | Flask, PyMoo, NSGA-II, GA, Plotly |
+| Project                                                                                                     | Description                                                                                                                                                                                                                                               | Tech                                                                           |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [AI Career Agent Platform](https://github.com/Wanjin5508/ai_career_agent_platform)                          | A full-stack AI career assistant platform for job management, resume management, knowledge-base assisted matching, and interview preparation. Designed as a TypeScript monorepo and gradually evolving toward a deployable SaaS product.                  | TypeScript, Next.js, Node.js, Prisma, SQLite, LLM workflow                     |
+| [Vault Coach](https://github.com/Wanjin5508/vault-coach)                                                    | A local-first Obsidian plugin for intelligent knowledge-base Q&A. It supports hybrid retrieval, query rewriting, reranking, incremental indexing, long-term memory, and optional OpenAI-compatible external LLM APIs.                                     | TypeScript, Obsidian API, RAG, Ollama, local LLM                               |
+| [Energy Storage Arbitrage Optimization](https://github.com/Wanjin5508/electricity-market-storage-arbitrage) | A profit-oriented machine learning pipeline for energy storage revenue optimization in electricity markets. The project converts price forecasts into executable battery charge/discharge schedules and uses arbitrage profit as a key validation metric. | Python, ML, feature engineering, time-series validation, strategy optimization |
+| Reinforcement Learning for Bridge Pier Layout Planning                                                      | A reinforcement learning project for generating feasible bridge pier layout strategies under different bridge lengths and restricted-area constraints. The project compares RL with rule-based, greedy, and dynamic-programming baselines.                | Python, RL, DP, optimization, simulation environment                           |
+| [HFCT Signal Annotation Tool]()                    | A desktop annotation tool for labeling long industrial time-series signals and suspicious waveform segments in partial discharge inspection workflows.                                                                                                    | Python, PyQt, PyQtGraph, time-series visualization                             |
+| Partial Discharge Detection Model                                                                           | Deep learning models for partial discharge / noise classification and waveform understanding on industrial sensor data.                                                                                                                                   | PyTorch, signal processing, time-series modeling                               |
+| End-to-End Time-Series Segmentation                                                                         | A semantic segmentation pipeline for industrial time-series data, focused on sequence labeling and boundary-aware waveform recognition.                                                                                                                   | PyTorch, sequence modeling, segmentation                                       |
+| Time-Series Clustering and Feature Engineering                                                              | Machine learning workflows for clustering, representation learning, and feature extraction from industrial signal data.                                                                                                                                   | scikit-learn, NumPy, Pandas, Polars                                            |
+| Structural Optimization Platform                                                                            | A full-stack structural optimization system with interactive frontend-backend integration and evolutionary optimization algorithms.                                                                                                                       | Flask, PyMoo, NSGA-II, GA, Plotly                                              |
+| Enterprise Manual RAG Prototype                                                                             | A local RAG prototype for enterprise product manuals with modular retrieval, reranking, and answer generation.                                                                                                                                            | Python, RAG, Ollama                                                            |
 
-<details>
-<summary><strong>More About My Work</strong></summary>
+---
 
-### Areas I Enjoy Exploring
-- Industrial AI applications
-- Intelligent developer tools
-- Practical ML systems deployment
-- Edge AI and local AI workflows
+## Engineering Interests
 
-### What I Value in Projects
-- Clear problem definition
-- Reliable engineering implementation
-- Reproducible experiments
-- Practical usefulness in real scenarios
+* Building reliable AI systems instead of isolated model demos
+* Designing reproducible ML experiments and evaluation pipelines
+* Applying AI to industrial inspection, energy systems, and engineering design
+* Developing local-first AI tools with privacy-aware workflows
+* Combining classical optimization, reinforcement learning, and LLM-based systems
 
-</details>
+---
 
 ## What I'm Looking For
 
-- AI / ML Engineer roles
-- Applied Algorithm Engineer positions
-- Industrial AI and intelligent software systems
-- Time-series learning, RAG systems, and backend AI applications
+I am interested in roles related to:
+
+* Machine Learning Engineer
+* Applied AI Engineer
+* Data Scientist
+* Industrial AI Engineer
+* AI Software Engineer
+* Time-Series / Signal Processing Engineer
+* LLM / RAG Application Engineer
+
+I am particularly interested in teams working on industrial AI, intelligent software systems, time-series learning, optimization, and practical LLM applications.
+
+---
 
 ## Contact
 
 <p>
-  GitHub: <a href="https://github.com/Wanjin5508">Wanjin5508</a><br>
-  LinkedIn: <a href="https://www.linkedin.com/in/wanjin-li5508/">wanjin-li5508</a><br>
+  GitHub: <a href="https://github.com/Wanjin5508">Wanjin5508</a><br/>
+  LinkedIn: <a href="https://www.linkedin.com/in/wanjin-li5508/">wanjin-li5508</a><br/>
   Email: <a href="mailto:liwanjin5508@gmail.com">liwanjin5508@gmail.com</a>
 </p>
